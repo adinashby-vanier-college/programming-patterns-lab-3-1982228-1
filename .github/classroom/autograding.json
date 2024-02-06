@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "addTwoNumbersTest1",
+      "setup": "gradle clean",
+      "run": "gradle test --tests LabThreeTests.addTwoNumbersTest1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 25
+    },
+    {
+      "name": "addTwoNumbersTest2",
+      "setup": "",
+      "run": "gradle test --tests LabThreeTests.addTwoNumbersTest2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 25
+    },
+    {
+      "name": "rotateRightTest1",
+      "setup": "",
+      "run": "gradle test --tests LabThreeTests.rotateRightTest1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 25
+    },
+    {
+      "name": "rotateRightTest2",
+      "setup": "",
+      "run": "gradle test --tests LabThreeTests.rotateRightTest2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 25
+    }
+  ]
+}
