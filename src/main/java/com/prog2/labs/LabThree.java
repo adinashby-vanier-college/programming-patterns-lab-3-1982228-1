@@ -1,4 +1,5 @@
 package com.prog2.labs;
+import java.util.LinkedList;
 
 /**
  * @author adinashby
